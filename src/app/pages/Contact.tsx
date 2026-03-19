@@ -40,21 +40,21 @@ export default function Contact() {
     {
       icon: <Mail className="w-6 h-6" />,
       label: "Email",
-      value: "your.email@example.com",
-      href: "mailto:your.email@example.com",
+      value: "abirmajumdar112email@example.com",
+      href: "mailto:abirmajumdar112email@example.com",
       gradient: "from-blue-600 to-cyan-600",
     },
     {
       icon: <Phone className="w-6 h-6" />,
       label: "Phone",
-      value: "+1 (555) 123-4567",
-      href: "tel:+15551234567",
+      value: "+917980550939",
+      href: "tel:+917980550939",
       gradient: "from-green-600 to-emerald-600",
     },
     {
       icon: <MapPin className="w-6 h-6" />,
       label: "Location",
-      value: "Your City, Country",
+      value: "Kolkata, India",
       href: "#",
       gradient: "from-purple-600 to-pink-600",
     },
@@ -64,7 +64,7 @@ export default function Contact() {
     {
       icon: <Github className="w-6 h-6" />,
       label: "GitHub",
-      href: "https://github.com",
+      href: "https://github.com/STYLO009",
       gradient: "from-gray-700 to-gray-900",
     },
     {
