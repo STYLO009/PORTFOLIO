@@ -113,7 +113,7 @@ export default function Root() {
                 <Linkedin className="w-5 h-5" />
               </motion.a>
               <motion.a
-                href="mailto:abirmajumdar112.email@example.com"
+                href="mailto:abirmajumdar112@gmail.com"
                 className="text-gray-400 hover:text-white transition-colors"
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.95 }}
@@ -170,7 +170,7 @@ export default function Root() {
                     <Linkedin className="w-5 h-5" />
                   </a>
                   <a
-                    href="mailto:abirmajumdar112.email@example.com"
+                    href="mailto:abirmajumdar112@gmail.com"
                     className="text-gray-400 hover:text-white transition-colors"
                   >
                     <Mail className="w-5 h-5" />

@@ -40,8 +40,8 @@ export default function Contact() {
     {
       icon: <Mail className="w-6 h-6" />,
       label: "Email",
-      value: "abirmajumdar112email@example.com",
-      href: "mailto:abirmajumdar112email@example.com",
+      value: "abirmajumdar112@gmail.com",
+      href: "mailto:abirmajumdar112@gmail.com",
       gradient: "from-blue-600 to-cyan-600",
     },
     {
