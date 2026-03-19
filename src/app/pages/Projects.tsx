@@ -205,7 +205,7 @@ export default function Projects() {
               Check out my GitHub for additional work and open-source contributions
             </p>
             <motion.a
-              href="https://github.com"
+              href="https://github.com/STYLO009"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}

@@ -93,7 +93,7 @@ export default function Root() {
             {/* Social Links */}
             <div className="hidden md:flex items-center gap-4">
               <motion.a
-                href="https://github.com"
+                href="https://github.com/STYLO009"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -103,7 +103,7 @@ export default function Root() {
                 <Github className="w-5 h-5" />
               </motion.a>
               <motion.a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/abir-majumdar-0b0437318/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -113,7 +113,7 @@ export default function Root() {
                 <Linkedin className="w-5 h-5" />
               </motion.a>
               <motion.a
-                href="mailto:your.email@example.com"
+                href="mailto:abirmajumdar112.email@example.com"
                 className="text-gray-400 hover:text-white transition-colors"
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.95 }}
@@ -154,7 +154,7 @@ export default function Root() {
                 ))}
                 <div className="flex gap-4 pt-4 border-t border-slate-700">
                   <a
-                    href="https://github.com"
+                    href="https://github.com/STYLO009"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-white transition-colors"
@@ -162,7 +162,7 @@ export default function Root() {
                     <Github className="w-5 h-5" />
                   </a>
                   <a
-                    href="https://linkedin.com"
+                    href="https://www.linkedin.com/in/abir-majumdar-0b0437318/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-white transition-colors"
@@ -170,7 +170,7 @@ export default function Root() {
                     <Linkedin className="w-5 h-5" />
                   </a>
                   <a
-                    href="mailto:your.email@example.com"
+                    href="mailto:abirmajumdar112.email@example.com"
                     className="text-gray-400 hover:text-white transition-colors"
                   >
                     <Mail className="w-5 h-5" />

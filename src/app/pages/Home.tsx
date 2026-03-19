@@ -54,11 +54,10 @@ export default function Home() {
                   <span className="text-sm text-purple-300">Machine Learning Engineer</span>
                 </motion.div>
                 <h1 className="text-5xl lg:text-7xl font-bold text-white">
-                  Building the{" "}
+                  I am{" "}
                   <span className="bg-gradient-to-r from-purple-400 to-pink-600 bg-clip-text text-transparent">
-                    Future
+                    Abir Majumdar
                   </span>{" "}
-                  with AI
                 </h1>
                 <p className="text-xl text-gray-300">
                   Passionate ML Engineer crafting intelligent solutions that transform ideas
